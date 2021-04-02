@@ -1,0 +1,25 @@
+#logo {
+    margin: 20px;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 23px;
+    color: #2D2D2D;
+}
+#captcha {
+    background-color: #00B1F0;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;;
+}
+
+#captcha:hover {
+    background-color: #b6ccf0;
+    cursor: pointer;
+}
